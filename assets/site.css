@@ -176,3 +176,13 @@ dd{color:var(--muted);max-width:72ch}
   .guide-section,.storage{break-inside:auto}
   dl>div,.project-card{break-inside:avoid}
 }
+
+.project-card { display:flex; flex-direction:column; }
+.project-card>a { height:auto; flex:1; }
+.card-actions { flex-wrap:wrap; gap:.45rem; padding:0 1.2rem 1.3rem; }
+.card-actions .button { font-size:.85rem; padding:.45rem .75rem; }
+.legal-page { max-width:48rem; padding-block:clamp(2rem,6vw,5rem); overflow-wrap:anywhere; }
+.legal-page article h1 { font-size:clamp(2.2rem,6vw,3.8rem); }
+.legal-page h2 { margin-top:1.4em; font-size:1.55rem; }
+.legal-page p { line-height:1.7; margin-block:1em; }
+.footer>div { flex-wrap:wrap; } .footer a { overflow-wrap:anywhere; }

@@ -220,6 +220,43 @@
           "alt": "ScreenQuill Windows task details showing a fictional workshop checklist goal and completion criteria."
         }
       ]
+    },
+    {
+      "app": "firmquill-full-suite",
+      "release": "0.2.0 preview",
+      "commit": "0793985bc3e08ddc21c7ad4dd44cc0cb32d7127c",
+      "captured": "2026-11-26",
+      "browser": "Chromium on Linux; desktop and 390 px iPhone-width viewport. Actual portal screenshots cropped to the relevant area; fictional fixtures only.",
+      "screenshots": [
+        {
+          "file": "desktop-benefits-elections.jpg",
+          "width": 1280,
+          "height": 1150,
+          "caption": "Desktop browser · Employee portal with separate new-hire and annual elections and receipts.",
+          "alt": "FirmQuill employee portal showing the time clock and independent 2027 initial and 2028 open enrollment cards."
+        },
+        {
+          "file": "desktop-hr-benefits-queue.jpg",
+          "width": 1280,
+          "height": 1000,
+          "caption": "Desktop browser · HR queues for enrollment, life-event requests and retirement changes.",
+          "alt": "FirmQuill HR queue showing fictional benefit elections, a special enrollment case and a pending 401(k) request."
+        },
+        {
+          "file": "desktop-employee-access.jpg",
+          "width": 1440,
+          "height": 1000,
+          "caption": "Desktop browser · Admin controls for worker setup, portal features and separate ERP access.",
+          "alt": "FirmQuill User access screen showing separate ERP and worker accounts and employee access controls."
+        },
+        {
+          "file": "iphone-benefits-elections.jpg",
+          "width": 390,
+          "height": 844,
+          "caption": "iPhone viewport preview · Both enrollment records in the mobile Benefits section.",
+          "alt": "Two independent benefit enrollment cards in the FirmQuill employee portal at iPhone width."
+        }
+      ]
     }
   ]
 }

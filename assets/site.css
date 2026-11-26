@@ -188,3 +188,26 @@ dd{color:var(--muted);max-width:72ch}
 .footer>div { flex-wrap:wrap; } .footer a { overflow-wrap:anywhere; }
 
 .app-art.filebirch{--well:#e9dfe9;--trace:#523552}
+
+/* Directory groups and authentic app feature galleries. */
+.project-group{padding-top:clamp(2rem,4vw,3.5rem);scroll-margin-top:1.5rem}
+.project-group>h2{font-size:clamp(2.7rem,5vw,4rem);margin-bottom:.65rem}
+.group-intro{color:var(--muted);max-width:70ch}
+.project-group .cards{padding-top:1.7rem}
+.card-body h3{font:400 clamp(2.1rem,3.3vw,3.05rem)/1 var(--display);letter-spacing:-.033em;margin:.55rem 0 .7rem}
+.app-art.screenquill{--well:#d7e4ec;--trace:#315e70}
+.screenshot-intro{color:var(--muted);margin-block:1rem 1.4rem;max-width:68ch}
+.feature-screenshots:first-child{margin-top:0;padding-top:0;border-top:0;margin-bottom:2.5rem}
+.screenshot-gallery{display:grid;gap:1.6rem;min-width:0}
+.screenshot-gallery figure{min-width:0;margin:0}
+.screenshot-gallery figure>a{display:block;border:1px solid var(--line);border-radius:.4rem;overflow:hidden;background:var(--white)}
+.screenshot-gallery img{width:100%;height:auto}
+.screenshot-gallery figcaption{font-size:.95rem;color:var(--muted);line-height:1.55;padding-top:.6rem}
+.screenshot-gallery .phone-preview{width:min(100%,24.375rem);justify-self:center}
+.guide-main,.masthead nav,.footer>div{min-width:0}
+.background>*{min-width:0}
+.prose{overflow-wrap:anywhere}
+.button{overflow-wrap:anywhere;max-width:100%}
+.footer>div{min-width:0}
+.menu{max-height:min(36rem,75vh);overflow-y:auto}
+@media(max-width:43rem){.footer>div a{overflow-wrap:anywhere;max-width:100%}}

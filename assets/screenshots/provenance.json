@@ -1,0 +1,225 @@
+{
+  "captured": "2026-11-26",
+  "data": "Fictional entries only; no user records.",
+  "browser": "Microsoft Edge on Windows; 1440 x 1000 desktop and 390 x 844 iPhone viewport previews. No physical iPhone testing asserted.",
+  "screenquill": "Current source from the unmodified portable ZIP; app controls rendered on Windows by a local in-process capture harness. Real native window captures of the app's fictional checklist fixture; no generated screenshot pixels. Physical input delivery and display recording across apps are not asserted.",
+  "screenquillZipSha256": "7f5cdf3946f6b75a61b009a778a2658a65984aa96560698f8677ff384783d4ad",
+  "sources": [
+    {
+      "app": "firmquill-lite",
+      "commit": "21931ddb0aee9ae981fc296719e4fc8a2d271340",
+      "screenshots": [
+        {
+          "file": "windows-overview.jpg",
+          "width": 1440,
+          "height": 1000,
+          "caption": "Windows desktop · local preview. Sample company cash, receivables and recent activity.",
+          "alt": "FirmQuill Lite workspace showing fictional Northline Studio company totals and recent sales."
+        },
+        {
+          "file": "windows-reports.jpg",
+          "width": 1440,
+          "height": 1000,
+          "caption": "Windows desktop · local preview. Financial statements from the sample books.",
+          "alt": "FirmQuill Lite Reports view displaying a fictional balance sheet and income statement."
+        },
+        {
+          "file": "iphone-reports.jpg",
+          "width": 390,
+          "height": 844,
+          "caption": "iPhone viewport preview · local preview. The same reporting tools at 390 px wide.",
+          "alt": "FirmQuill Lite financial reports in an iPhone-sized browser viewport."
+        }
+      ]
+    },
+    {
+      "app": "firmquill-full-suite",
+      "commit": "c243f390d9f3a30565918fd150f1044c81ed3334",
+      "screenshots": [
+        {
+          "file": "windows-books.jpg",
+          "width": 1440,
+          "height": 1000,
+          "caption": "Windows desktop · self-hosted local preview. Fictional company books in the browser portal.",
+          "alt": "FirmQuill Full Suite books portal showing fictional Northline Studio balances and recent sales."
+        },
+        {
+          "file": "windows-reports.jpg",
+          "width": 1440,
+          "height": 1000,
+          "caption": "Windows desktop · self-hosted local preview. Financial reports for the sample company.",
+          "alt": "FirmQuill Full Suite browser portal displaying fictional financial statements."
+        },
+        {
+          "file": "iphone-books.jpg",
+          "width": 390,
+          "height": 844,
+          "caption": "iPhone viewport preview · self-hosted local preview. Company reports at phone width.",
+          "alt": "FirmQuill Full Suite company reports in an iPhone-sized browser viewport."
+        },
+        {
+          "file": "iphone-worker.jpg",
+          "width": 390,
+          "height": 844,
+          "caption": "iPhone viewport preview · self-hosted local preview. A fictional worker clocked in to a sample job.",
+          "alt": "FirmQuill Full Suite worker portal showing Morgan Example clocked in for a fictional job."
+        }
+      ]
+    },
+    {
+      "app": "curbquill",
+      "commit": "ceeae3cd2475eff3a33e500131810891b17e937d",
+      "screenshots": [
+        {
+          "file": "windows-record-book.jpg",
+          "width": 1440,
+          "height": 1000,
+          "caption": "Windows desktop · local preview. Fictional earnings, tips, fees and fuel records.",
+          "alt": "CurbQuill record book listing fictional delivery earnings, tips, expenses and a payout."
+        },
+        {
+          "file": "windows-payouts.jpg",
+          "width": 1440,
+          "height": 1000,
+          "caption": "Windows desktop · local preview. Review the deposit alongside unsettled earnings.",
+          "alt": "CurbQuill payout review comparing a fictional bank deposit with delivery earnings."
+        },
+        {
+          "file": "iphone-payouts.jpg",
+          "width": 390,
+          "height": 844,
+          "caption": "iPhone viewport preview · local preview. Payout review on a narrow screen.",
+          "alt": "CurbQuill payout review in an iPhone-sized viewport with fictional delivery amounts."
+        }
+      ]
+    },
+    {
+      "app": "dayleaf",
+      "commit": "f31e432543dc018cac02e01f197a68d8dc0c0fa5",
+      "screenshots": [
+        {
+          "file": "windows-history.jpg",
+          "width": 1440,
+          "height": 1000,
+          "caption": "Windows desktop · local preview. Revisit dated fictional journal entries.",
+          "alt": "DayLeaf History showing three fictional daily journal entries."
+        },
+        {
+          "file": "windows-reports.jpg",
+          "width": 1440,
+          "height": 1000,
+          "caption": "Windows desktop · local preview. A report assembled from fictional journal entries.",
+          "alt": "DayLeaf Doctor Summary report preview with fictional symptom ratings and journal entries."
+        },
+        {
+          "file": "iphone-reports.jpg",
+          "width": 390,
+          "height": 844,
+          "caption": "iPhone viewport preview · local preview. The fictional journal report at phone width.",
+          "alt": "DayLeaf Doctor Summary report preview in an iPhone-sized browser viewport."
+        }
+      ]
+    },
+    {
+      "app": "milequill-lite",
+      "commit": "f0cb588412633bf96e325ed0611af050eb723bd6",
+      "screenshots": [
+        {
+          "file": "windows-overview.jpg",
+          "width": 1440,
+          "height": 1000,
+          "caption": "Windows desktop · local preview. Miles, shift hours and earnings after logged expenses.",
+          "alt": "MileQuill Lite overview showing a fictional 42.5-mile route, 4.5-hour shift and fuel expense."
+        },
+        {
+          "file": "windows-trips.jpg",
+          "width": 1440,
+          "height": 1000,
+          "caption": "Windows desktop · local preview. A saved trip with its distance and purpose.",
+          "alt": "MileQuill Lite trip list containing a fictional delivery route."
+        },
+        {
+          "file": "iphone-trips.jpg",
+          "width": 390,
+          "height": 844,
+          "caption": "iPhone viewport preview · local preview. Trip records at phone width.",
+          "alt": "MileQuill Lite trip records in an iPhone-sized browser viewport."
+        }
+      ]
+    },
+    {
+      "app": "pocketquill",
+      "commit": "881674fccbb5822c08c6a35c4cd43d232aa8978a",
+      "screenshots": [
+        {
+          "file": "windows-dashboard.jpg",
+          "width": 1440,
+          "height": 1000,
+          "caption": "Windows desktop · local preview. Fictional balances, spending and upcoming bills.",
+          "alt": "PocketQuill dashboard showing fictional checking funds, card utilization and upcoming bill."
+        },
+        {
+          "file": "windows-transactions.jpg",
+          "width": 1440,
+          "height": 1000,
+          "caption": "Windows desktop · local preview. Categorized fictional income and purchases.",
+          "alt": "PocketQuill transaction list showing fictional grocery spending and earnings."
+        },
+        {
+          "file": "iphone-transactions.jpg",
+          "width": 390,
+          "height": 844,
+          "caption": "iPhone viewport preview · local preview. Transaction review at phone width.",
+          "alt": "PocketQuill fictional transactions in an iPhone-sized browser viewport."
+        }
+      ]
+    },
+    {
+      "app": "filebirch",
+      "commit": "4d78a7809e09d43754ebd98d09070c970b3a6933",
+      "screenshots": [
+        {
+          "file": "windows-tables.jpg",
+          "width": 1440,
+          "height": 1000,
+          "caption": "Windows desktop · local preview. A fictional budget opened in Tables.",
+          "alt": "FileBirch Tables editor displaying a fictional workshop budget with quantities and costs."
+        },
+        {
+          "file": "windows-formula.jpg",
+          "width": 1440,
+          "height": 1000,
+          "caption": "Windows desktop · local preview. Editing the total with a SUM formula.",
+          "alt": "FileBirch Tables showing the SUM formula for a fictional workshop budget."
+        },
+        {
+          "file": "iphone-tables.jpg",
+          "width": 390,
+          "height": 844,
+          "caption": "iPhone viewport preview · local preview. Tables uses a scrollable worksheet at phone width.",
+          "alt": "FileBirch Tables editor and fictional budget in an iPhone-sized browser viewport."
+        }
+      ]
+    },
+    {
+      "app": "screenquill",
+      "commit": "c5400db183e76c300a0bad47ab8e61bbf4d72120",
+      "screenshots": [
+        {
+          "file": "windows-review.jpg",
+          "width": 1180,
+          "height": 884,
+          "caption": "Windows-only · local preview. Review real captures of a fictional checklist, add notes and confirm the evidence for ZIP export.",
+          "alt": "ScreenQuill Windows review interface, titled SOP Recorder, with two real checklist captures, step notes and Export ZIP controls."
+        },
+        {
+          "file": "windows-task-details.jpg",
+          "width": 1180,
+          "height": 884,
+          "caption": "Windows-only · local preview. Optional task name, goal, starting point and completion criteria for an SOP handoff.",
+          "alt": "ScreenQuill Windows task details showing a fictional workshop checklist goal and completion criteria."
+        }
+      ]
+    }
+  ]
+}

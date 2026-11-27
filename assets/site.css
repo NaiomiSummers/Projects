@@ -211,3 +211,27 @@ dd{color:var(--muted);max-width:72ch}
 .footer>div{min-width:0}
 .menu{max-height:min(36rem,75vh);overflow-y:auto}
 @media(max-width:43rem){.footer>div a{overflow-wrap:anywhere;max-width:100%}}
+
+/* Put each screenshot next to the feature it demonstrates. */
+.browser-storage-warning{margin-top:1.1rem;padding:.9rem 1rem;border:2px solid #a97930;border-left-width:5px;background:#fff7e5;color:#372710;border-radius:.35rem;max-width:42rem}
+.browser-storage-warning strong{display:block}
+.browser-storage-warning p{margin:.25rem 0 0;font-size:.91rem;line-height:1.5}
+.feature-inline-card{margin:1.4rem 0 2rem}
+.feature-inline-card+.feature-inline-card{padding-top:1.1rem;border-top:1px solid var(--line)}
+.feature-inline-card h3{margin:0 0 .4rem;font-size:1.22rem}
+.feature-inline-card p{margin-top:0}
+.feature-inline-image{margin:1rem 0 0;max-width:100%}
+.feature-inline-image a{display:block;width:fit-content;max-width:100%;border-radius:.55rem;overflow:hidden;border:1px solid var(--line);background:#fff}
+.feature-inline-image img{display:block;max-width:100%;height:auto}
+.feature-inline-image figcaption{padding-top:.35rem;color:var(--ink);font-size:.85rem}
+.feature-inline-image.phone-preview{max-width:390px}
+.feature-screenshot-unavailable{font-size:.88rem}
+.browser-storage-warning.server-storage-note{border-color:#178241;background:#d8fbdf;color:#102a18}
+.backup-warning{margin:1.1rem 0 0;padding:.9rem 1rem;border:2px solid #a97930;border-left-width:5px;background:#fff7e5;color:#372710;border-radius:.35rem;max-width:42rem}
+.backup-warning strong{display:block}
+.backup-warning p{margin:.25rem 0 0;font-size:.91rem;line-height:1.5}
+.feature-shot{margin:1rem 0 0;max-width:100%}
+.feature-shot a{display:block;width:fit-content;max-width:100%;border-radius:.55rem;overflow:hidden;border:1px solid var(--line);background:#fff}
+.feature-shot img{display:block;max-width:100%;height:auto}
+.feature-shot figcaption{padding-top:.35rem;color:var(--ink);font-size:.85rem}
+.feature-shot.phone-preview{max-width:390px}

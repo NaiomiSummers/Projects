@@ -1,0 +1,722 @@
+[
+  {
+    "path": "firmquill-lite/public-feature-overview.jpg",
+    "alt": "Overview screen",
+    "source": "e2dc8f37ba7d06f18dc670744ca20d78ced92891",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-lite/public-feature-directory.jpg",
+    "alt": "Directory screen",
+    "source": "e2dc8f37ba7d06f18dc670744ca20d78ced92891",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-lite/public-feature-jobs-time.jpg",
+    "alt": "Jobs & time screen",
+    "source": "e2dc8f37ba7d06f18dc670744ca20d78ced92891",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-lite/public-feature-sales.jpg",
+    "alt": "Sales screen",
+    "source": "e2dc8f37ba7d06f18dc670744ca20d78ced92891",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-lite/public-feature-payroll.jpg",
+    "alt": "Payroll screen",
+    "source": "e2dc8f37ba7d06f18dc670744ca20d78ced92891",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-lite/public-feature-accounting.jpg",
+    "alt": "Accounting screen",
+    "source": "e2dc8f37ba7d06f18dc670744ca20d78ced92891",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-lite/public-feature-reports.jpg",
+    "alt": "Reports screen",
+    "source": "e2dc8f37ba7d06f18dc670744ca20d78ced92891",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-lite/public-feature-purchasing.jpg",
+    "alt": "Purchasing screen",
+    "source": "e2dc8f37ba7d06f18dc670744ca20d78ced92891",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-lite/public-feature-projects.jpg",
+    "alt": "Projects screen",
+    "source": "e2dc8f37ba7d06f18dc670744ca20d78ced92891",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-lite/public-feature-contracts-legal.jpg",
+    "alt": "Contracts & legal screen",
+    "source": "e2dc8f37ba7d06f18dc670744ca20d78ced92891",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-lite/public-feature-assets-pallets.jpg",
+    "alt": "Assets & pallets screen",
+    "source": "e2dc8f37ba7d06f18dc670744ca20d78ced92891",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-lite/public-feature-warehouse.jpg",
+    "alt": "Warehouse screen",
+    "source": "e2dc8f37ba7d06f18dc670744ca20d78ced92891",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-lite/public-feature-assembly.jpg",
+    "alt": "Assembly screen",
+    "source": "e2dc8f37ba7d06f18dc670744ca20d78ced92891",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-lite/public-feature-fixed-assets.jpg",
+    "alt": "Fixed assets screen",
+    "source": "e2dc8f37ba7d06f18dc670744ca20d78ced92891",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-lite/public-feature-banking.jpg",
+    "alt": "Banking screen",
+    "source": "e2dc8f37ba7d06f18dc670744ca20d78ced92891",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-lite/public-feature-planning.jpg",
+    "alt": "Planning screen",
+    "source": "e2dc8f37ba7d06f18dc670744ca20d78ced92891",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-lite/public-feature-history.jpg",
+    "alt": "History screen",
+    "source": "e2dc8f37ba7d06f18dc670744ca20d78ced92891",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-lite/public-feature-company-setup.jpg",
+    "alt": "Company setup screen",
+    "source": "e2dc8f37ba7d06f18dc670744ca20d78ced92891",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-lite/public-feature-inventory-example.jpg",
+    "alt": "Fictional Alder Supply inventory",
+    "source": "e2dc8f37ba7d06f18dc670744ca20d78ced92891",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-overview.jpg",
+    "alt": "Overview screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-directory.jpg",
+    "alt": "Directory screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-jobs-time.jpg",
+    "alt": "Jobs & time screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-sales.jpg",
+    "alt": "Sales screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-payroll.jpg",
+    "alt": "Payroll screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-purchasing.jpg",
+    "alt": "Purchasing screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-accounting.jpg",
+    "alt": "Accounting screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-reports.jpg",
+    "alt": "Reports screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-warehouse.jpg",
+    "alt": "Warehouse screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-assembly.jpg",
+    "alt": "Assembly screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-fixed-assets.jpg",
+    "alt": "Fixed assets screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-banking.jpg",
+    "alt": "Banking screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-history.jpg",
+    "alt": "History screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-company-setup.jpg",
+    "alt": "Company setup screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-departments.jpg",
+    "alt": "Departments screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-project-tracker.jpg",
+    "alt": "Project tracker screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-assets-pallets.jpg",
+    "alt": "Assets & pallets screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-inventory-audit.jpg",
+    "alt": "Inventory audit screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-company-knowledge.jpg",
+    "alt": "Company knowledge screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-messages.jpg",
+    "alt": "Messages screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-collaboration-groups.jpg",
+    "alt": "Collaboration groups screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-purchase-requests.jpg",
+    "alt": "Purchase requests screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-time-off-review.jpg",
+    "alt": "Time off review screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-approvals.jpg",
+    "alt": "Approvals screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-user-access.jpg",
+    "alt": "User access screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-audit-trail.jpg",
+    "alt": "Audit trail screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-employee-records.jpg",
+    "alt": "Employee records screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-benefits-administration.jpg",
+    "alt": "Benefits administration screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-identity-connectors.jpg",
+    "alt": "Identity connectors screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-drives.jpg",
+    "alt": "Drives screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-agent-access.jpg",
+    "alt": "Agent access screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-planning.jpg",
+    "alt": "Planning screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-setup-help.jpg",
+    "alt": "Setup help screen",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-worker-portal.jpg",
+    "alt": "Employee portal with time clock and self-service",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Original desktop or iPhone viewport"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-phone-worker-portal.jpg",
+    "alt": "Employee portal in an iPhone-sized browser viewport",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 390,
+      "height": 844
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Original desktop or iPhone viewport"
+  },
+  {
+    "path": "firmquill-lite/public-feature-vault-workspace.jpg",
+    "alt": "Initial encrypted vault setup with company activities",
+    "source": "e2dc8f37ba7d06f18dc670744ca20d78ced92891",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "crop": {
+      "width": 462,
+      "height": 491
+    },
+    "frame": "Original desktop or iPhone viewport"
+  },
+  {
+    "path": "firmquill-lite/public-feature-backup-controls.jpg",
+    "alt": "Encrypted vault backup and restore controls",
+    "source": "e2dc8f37ba7d06f18dc670744ca20d78ced92891",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "crop": {
+      "width": 1008,
+      "height": 123
+    },
+    "frame": "Original desktop or iPhone viewport"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-warehouse-pick.jpg",
+    "alt": "Shared pick lists and scheduled inventory counts",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Main content cropped to exclude navigation; actual interface unchanged"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-ftps-transfer.jpg",
+    "alt": "FTPS controls on a fictional configured drive with loopback mock transport",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "crop": {
+      "width": 1008,
+      "height": 229
+    },
+    "frame": "Original desktop or iPhone viewport"
+  },
+  {
+    "path": "firmquill-full-suite/public-feature-employee-benefits.jpg",
+    "alt": "Worker portal benefit plans and separate elections",
+    "source": "a0f2b9ce4161ce274db47c2b52518c273332cb3d",
+    "device": {
+      "width": 1320,
+      "height": 900
+    },
+    "captureDate": "2026-11-27",
+    "data": "Fictional demonstration records in a disposable localhost instance",
+    "frame": "Original desktop or iPhone viewport"
+  }
+]

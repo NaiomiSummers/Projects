@@ -1,0 +1,986 @@
+{
+  "captureTool": "Chromium desktop viewport on Linux; matched current public source as noted per app. Existing ScreenQuill imagery is native Windows; see retained provenance.json for original capture metadata.",
+  "builds": [
+    {
+      "app": "curbquill",
+      "source_commit": "f7e4f566c4c1f9e7435850bce844319c1bc7b0e2",
+      "source_live": "https://curbquill.github.io/CurbQuill/",
+      "live_snapshot_checks": {
+        "index.html": {
+          "matchesPublicBytes": true,
+          "sha256": "4c344626de790f917b17746a8aef54355ae5c57fa82e2ace95f718333dd3929f"
+        },
+        "app.js": {
+          "matchesPublicBytes": true,
+          "sha256": "693d8e28643de5245a45b941e8780aacf2ae344894b6b062de267cfd88d225b0"
+        }
+      }
+    },
+    {
+      "app": "dayleaf",
+      "source_commit": "f31e432543dc018cac02e01f197a68d8dc0c0fa5",
+      "source_live": "https://naiomisummers.github.io/Day-Leaf/",
+      "live_snapshot_checks": {
+        "index.html": {
+          "matchesPublicBytes": true,
+          "sha256": "2820dafec831592e2fc3ba673ef34880f21a9103f7c622363fcf11106c912b07"
+        },
+        "app.js": {
+          "matchesPublicBytes": true,
+          "sha256": "28be34e91bae5dafc7b60ddb5d9335f0a0d95c2e4d7fdaef7b15c2c374a88eaf"
+        }
+      }
+    },
+    {
+      "app": "milequill-lite",
+      "source_commit": "0643c08736441d08d405ad61c8a5ba7de1c14907",
+      "source_live": "https://milequill.github.io/MileQuill-Lite/",
+      "live_snapshot_checks": {
+        "index.html": {
+          "matchesPublicBytes": true,
+          "sha256": "e1599cd70131f7c727d701bd54f3df2041e9d55833e65265fb606671416e33dc"
+        },
+        "app.js": {
+          "matchesPublicBytes": true,
+          "sha256": "d76a526509abb50825ebc6a84579ea6fc3f0137f5a3612f7e9e2dd522922a4c6"
+        }
+      }
+    },
+    {
+      "app": "pocketquill",
+      "source_commit": "aff1cd558b538ee34f0b328425a8fedf76044779",
+      "source_live": "https://pocketquill.github.io/PocketQuill/",
+      "live_snapshot_checks": {
+        "index.html": {
+          "matchesPublicBytes": true,
+          "sha256": "eb5721346cb05df1429f7c426201631901e9cac344791fef43e0b542b59d34c1"
+        },
+        "app.js": {
+          "matchesPublicBytes": true,
+          "sha256": "90b7df7163a28ddbb1fa27ee3e80ce5628ed8addc2ccf70d65fed1236cdc3e69"
+        }
+      }
+    },
+    {
+      "app": "screenquill",
+      "source_commit": "904331a9bb4792fbed8a7a7162d6d15e455f827d",
+      "source_live": "https://github.com/NaiomiSummers/ScreenQuill",
+      "live_snapshot_checks": {
+        "SOP-Recorder-Portable.zip": {
+          "matchesPublicBytes": true,
+          "sha256": "4374ede1978c32d4e1feb70b3a12135440d296b4a8ce0132a8e6386adb6f3bb7"
+        }
+      }
+    },
+    {
+      "app": "filebirch",
+      "source_commit": "f2c8333ce38f25829548358ccbc101723c720e18",
+      "source_live": "https://filebirch.github.io/Launcher/",
+      "live_snapshot_checks": {
+        "index.html": {
+          "matchesPublicBytes": true,
+          "sha256": "4a293278be988a6ca3f9507cb8c24e1f457bf69dec7a4151bf6ac9d8777e88c8"
+        },
+        "brand.js": {
+          "matchesPublicBytes": true,
+          "sha256": "6e1de729e8ee6f2e5503ce80598fb444eab458c493f13229ba0d6fdd9832f4c5"
+        }
+      }
+    }
+  ],
+  "screenquillZipSha256Current": "4374ede1978c32d4e1feb70b3a12135440d296b4a8ce0132a8e6386adb6f3bb7",
+  "screenquillZipSha256PriorCaptures": "7f5cdf3946f6b75a61b009a778a2658a65984aa96560698f8677ff384783d4ad",
+  "images": [
+    {
+      "app": "curbquill",
+      "feature": "Where records live",
+      "file": "curbquill/feature-where-records-live.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "7ab1fdac77d7a4fabf7ab60505b5d6391695be7626d6716cc9a1db5d1abe069d"
+    },
+    {
+      "app": "curbquill",
+      "feature": "Make a backup",
+      "file": "curbquill/feature-make-a-backup.jpg",
+      "width": 546,
+      "height": 179,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "431d60fc46de20b5318b80c3afbba1872ad344dbfa03dcc0080616363da71cb2"
+    },
+    {
+      "app": "curbquill",
+      "feature": "Restore your records",
+      "file": "curbquill/feature-restore-your-records.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "d547ab7fdf9298c412240e3712747eb2b415cf954a6ef42117ee9e38d5d7ed81"
+    },
+    {
+      "app": "curbquill",
+      "feature": "Earnings and expenses",
+      "file": "curbquill/feature-earnings-and-expenses.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "e3dbb1e0aa1104ebbd6b3973a81a30777356629c0678c05e3205dc12ee794500"
+    },
+    {
+      "app": "curbquill",
+      "feature": "Book totals",
+      "file": "curbquill/feature-book-totals.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "fbadc4aa2601d03d908665183b13415d75179e6a546118844904ac1c0ee08893"
+    },
+    {
+      "app": "curbquill",
+      "feature": "Search and filters",
+      "file": "curbquill/feature-search-and-filters.jpg",
+      "width": 1068,
+      "height": 71,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "329f16aaa822dfaaf868ca455dfd828cd4f4703211aa33506cc826a0659b5da2"
+    },
+    {
+      "app": "curbquill",
+      "feature": "Duplicates and corrections",
+      "file": "curbquill/feature-duplicates-and-corrections.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "6641d8a1c777fcfca3b010eba9ef758086108a6d9a2ee3c91fee6b1a92dc0ebe"
+    },
+    {
+      "app": "curbquill",
+      "feature": "Split a payout across earnings",
+      "file": "curbquill/feature-split-a-payout-across-earnings.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "94936f46728a9dddecbc1938760f48c1e56918783ae01f881b6f5dfa40bc32f6"
+    },
+    {
+      "app": "curbquill",
+      "feature": "Account for fees",
+      "file": "curbquill/feature-account-for-fees.jpg",
+      "width": 782,
+      "height": 71,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "8a5b65552fb086add6f97be84877381ae043a0b9937f05bfffaf4815723c36c8"
+    },
+    {
+      "app": "curbquill",
+      "feature": "Pending and confirmed matches",
+      "file": "curbquill/feature-pending-and-confirmed-matches.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "91ac7e94b1be3b0f0b9dbb89093e9c0381ca0c3b3b8556bcf7b7c1b747e45fc0"
+    },
+    {
+      "app": "curbquill",
+      "feature": "Pending and confirmed matches",
+      "file": "curbquill/feature-pending-and-confirmed-matches-phone.jpg",
+      "width": 390,
+      "height": 844,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "8f6f30a286768a67fa86264a9cf31b08eafc0581f4c039511bb4eae9b9ce5716"
+    },
+    {
+      "app": "curbquill",
+      "feature": "Outstanding balances",
+      "file": "curbquill/feature-outstanding-balances.jpg",
+      "width": 508,
+      "height": 237,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "b92e344f8b625ff110864427ec5ef307dfcf76b60f896e00d18f8ea05119236c"
+    },
+    {
+      "app": "curbquill",
+      "feature": "CSV column mapping",
+      "file": "curbquill/feature-csv-column-mapping.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "890f2e426a5cc9ac86cf9123e2a23e7a07755c2d0a7f6e056c54409bedd7e031"
+    },
+    {
+      "app": "curbquill",
+      "feature": "Import preview",
+      "file": "curbquill/feature-import-preview.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "09569da38aa8eb857be0b54c09939b356ae6c5fc2eb66bef893a9e59362fce67"
+    },
+    {
+      "app": "curbquill",
+      "feature": "CSV export",
+      "file": "curbquill/feature-csv-export.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "954518e504ba97b8430d6812f1f41010320cad3c375067a1c156ed2d3cc36911"
+    },
+    {
+      "app": "curbquill",
+      "feature": "Offline use and installation",
+      "file": "curbquill/feature-offline-use-and-installation.jpg",
+      "width": 546,
+      "height": 238,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "89c5c9205a051cc75e4f54e42bee0e95de35210e81436885adc6ecb999328d0e"
+    },
+    {
+      "app": "curbquill",
+      "feature": "Vault locking",
+      "file": "curbquill/feature-vault-locking.jpg",
+      "width": 508,
+      "height": 71,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "386ba808f45301c05a22a8d08f87b34d5f51fb1b283fe53d52eaa819f7f5ec97"
+    },
+    {
+      "app": "dayleaf",
+      "feature": "Where records live",
+      "file": "dayleaf/feature-where-records-live.jpg",
+      "width": 1056,
+      "height": 25,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "d7b94bd99c2426e62ba0859ef544e3af601e2fa1b0ccea1b33b9d4deb3aade02"
+    },
+    {
+      "app": "dayleaf",
+      "feature": "Make a backup",
+      "file": "dayleaf/feature-make-a-backup.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "66e2395a482a85f5f479146c6a1c3d2b918b0f0c896e029a518111e1be552572"
+    },
+    {
+      "app": "dayleaf",
+      "feature": "Restore your records",
+      "file": "dayleaf/feature-restore-your-records.jpg",
+      "width": 1056,
+      "height": 215,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "10faf5cb495a648faf58d082ff78b6bc83a567a15cc06772425d257ab3f488ed"
+    },
+    {
+      "app": "dayleaf",
+      "feature": "Check-ins and drafts",
+      "file": "dayleaf/feature-check-ins-and-drafts.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "1e48e3e70305813720e69435928e07bd71cd413af31fec21313e4dd29b1a6348"
+    },
+    {
+      "app": "dayleaf",
+      "feature": "Sleep",
+      "file": "dayleaf/feature-sleep.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "fc5d982ccf556a9d44778a04e70b46f92149c8c8ff84d2658b9672c407f14023"
+    },
+    {
+      "app": "dayleaf",
+      "feature": "Activities and support",
+      "file": "dayleaf/feature-activities-and-support.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "0fac6b2e7b35ef0814d64e10865d0f633c5b575e0d6bbf9d39546b71159b7e87"
+    },
+    {
+      "app": "dayleaf",
+      "feature": "Substance log and reflection",
+      "file": "dayleaf/feature-substance-log-and-reflection.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "c4a4b6fdff0c9cbd2e6543c760437523b5bde7ec19ff41e374cb6959eae58671"
+    },
+    {
+      "app": "dayleaf",
+      "feature": "Medication schedule and doses",
+      "file": "dayleaf/feature-medication-schedule-and-doses.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "81fe7bb35713efa4a490697b46f15116be45552698e8d5b6b6448bd90fc286fe"
+    },
+    {
+      "app": "dayleaf",
+      "feature": "Weekly review",
+      "file": "dayleaf/feature-weekly-review.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "0daefa5eb1b908c66feca90d379494972247493f638e3922e9227f703ed90672"
+    },
+    {
+      "app": "dayleaf",
+      "feature": "PHQ-9 and GAD-7",
+      "file": "dayleaf/feature-phq-9-and-gad-7.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "c30b16060706d7000945705f8c4a77bc8d0dc651440107c96e91b58344374831"
+    },
+    {
+      "app": "dayleaf",
+      "feature": "C-SSRS self-report",
+      "file": "dayleaf/feature-c-ssrs-self-report.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "6a3651e63ebd6fbc323d124e4d40e3a4dea74881745532c1d53a8574e83a4d7d"
+    },
+    {
+      "app": "dayleaf",
+      "feature": "Personal safety plan",
+      "file": "dayleaf/feature-personal-safety-plan.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "a59c09c044ba06aa24b3f9dcb39cba27e6c344e5bf18a87dffe415b849269199"
+    },
+    {
+      "app": "dayleaf",
+      "feature": "Dated worksheets",
+      "file": "dayleaf/feature-dated-worksheets.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "8a33dac53319da70a147fb79a09192a69049aca0195f5a9cd671f85df19e9337"
+    },
+    {
+      "app": "dayleaf",
+      "feature": "Behavior Chain Analysis",
+      "file": "dayleaf/feature-behavior-chain-analysis.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "5b55222c2f1143690ecfa511d1afe0fb35f7120b16083c4bd81aec93b2ef5dbe"
+    },
+    {
+      "app": "dayleaf",
+      "feature": "DEAR MAN",
+      "file": "dayleaf/feature-dear-man.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "b5dca9bf97716717175055d3d0b80d1f5a43366fda7abff9393c435907d346cd"
+    },
+    {
+      "app": "dayleaf",
+      "feature": "DBT Diary Card",
+      "file": "dayleaf/feature-dbt-diary-card.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "717e227a58ff4561ad6b21d8dbf9326ed106f0dacd0470d7062ebeff9a97ee9c"
+    },
+    {
+      "app": "dayleaf",
+      "feature": "Check the Facts",
+      "file": "dayleaf/feature-check-the-facts.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "e47dc5ecdde8323822dca434a358829c6db1c68b4ff0675108686f05b7f3e07c"
+    },
+    {
+      "app": "dayleaf",
+      "feature": "Opposite Action",
+      "file": "dayleaf/feature-opposite-action.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "18da76138d4c19bb26862cb7a8ef7313c42de61ec7818b0ba0c7896badabe15f"
+    },
+    {
+      "app": "dayleaf",
+      "feature": "Pros & Cons",
+      "file": "dayleaf/feature-pros-cons.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "8918da89c20b9fcf82bf988ea6add97696f234b3dfdd3805009638edf65051c8"
+    },
+    {
+      "app": "dayleaf",
+      "feature": "Entry history",
+      "file": "dayleaf/feature-entry-history.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "d9cd7dc41feeeca622e0bed5bd8b934a2cfcd214a5672677d9f0b61eb4039e25"
+    },
+    {
+      "app": "dayleaf",
+      "feature": "Doctor Summary",
+      "file": "dayleaf/feature-doctor-summary.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "7ea8c540e6239335064debe3c6ed1ccf2fc115bef1e3d30d68e9404fc1bdaec2"
+    },
+    {
+      "app": "dayleaf",
+      "feature": "Doctor Summary",
+      "file": "dayleaf/feature-doctor-summary-phone.jpg",
+      "width": 390,
+      "height": 844,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "06d65f7aaf2b1988fb1758391ff7751d11b428cfa0830503bfb1879106b8cf12"
+    },
+    {
+      "app": "dayleaf",
+      "feature": "SSDI function summary",
+      "file": "dayleaf/feature-ssdi-function-summary.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "21fb704594bbdd0a12964c34a76f4b7e252aad8763cccedfc9259407466dfd2a"
+    },
+    {
+      "app": "dayleaf",
+      "feature": "Report preview and PDF",
+      "file": "dayleaf/feature-report-preview-and-pdf.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "8819980d16cf48ebcc00763d1329da6cc8993352ef8a65c75534ab4dd558d4f0"
+    },
+    {
+      "app": "dayleaf",
+      "feature": "Offline readiness",
+      "file": "dayleaf/feature-offline-readiness.jpg",
+      "width": 1108,
+      "height": 277,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "dccb1e78618e742014497342924bcefc4b81206860e8fae2aa27a68ce5b32734"
+    },
+    {
+      "app": "dayleaf",
+      "feature": "Manual and automatic locking",
+      "file": "dayleaf/feature-manual-and-automatic-locking.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "1e450b5b722a727f6ea4ad7bf0f1720fd1cb27dcf276af306bb63fd83327b797"
+    },
+    {
+      "app": "milequill-lite",
+      "feature": "Where records live",
+      "file": "milequill-lite/feature-where-records-live.jpg",
+      "width": 974,
+      "height": 112,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "8d1b8ae8e4bdd941b1679976dc2e1ae841e34bb7f8b55e9faba9086a7dded94a"
+    },
+    {
+      "app": "milequill-lite",
+      "feature": "Make a backup",
+      "file": "milequill-lite/feature-make-a-backup.jpg",
+      "width": 482,
+      "height": 221,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "9be4ed7ba073bd2f89f4bbeffae4542a8f83ddfe118a5527099d977766964c4c"
+    },
+    {
+      "app": "milequill-lite",
+      "feature": "Restore your records",
+      "file": "milequill-lite/feature-restore-your-records.jpg",
+      "width": 528,
+      "height": 202,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "1ffeca4cecea61f82a4968b9baf4a69ce989c2fa27157645b315b064f6430e3a"
+    },
+    {
+      "app": "milequill-lite",
+      "feature": "Trip mileage",
+      "file": "milequill-lite/feature-trip-mileage.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "3228337fb24310baac175a6a9573c9f27441698d20966b7c045ea3c30cb965c2"
+    },
+    {
+      "app": "milequill-lite",
+      "feature": "Hours and earnings",
+      "file": "milequill-lite/feature-hours-and-earnings.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "54d6fdce2a64ebb4648c5ef0357a8d41d70fddee7d71a5193e32439623ea9c6a"
+    },
+    {
+      "app": "milequill-lite",
+      "feature": "Work expenses",
+      "file": "milequill-lite/feature-work-expenses.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "babf91a331ab27eefbaad1f9c2b51aef8bb3eedb002212eef6f56a29b3f53a6e"
+    },
+    {
+      "app": "milequill-lite",
+      "feature": "Record history",
+      "file": "milequill-lite/feature-record-history.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "5ddf04d8f11850be04e853c700a5ce5be37219802567ee2ab12daadc73c80c91"
+    },
+    {
+      "app": "milequill-lite",
+      "feature": "Record history",
+      "file": "milequill-lite/feature-record-history-phone.jpg",
+      "width": 390,
+      "height": 844,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "8f6245e0765d729fca7d2522cb8157789b44cea8d5e98f85378f1a002fedea05"
+    },
+    {
+      "app": "milequill-lite",
+      "feature": "Reporting periods",
+      "file": "milequill-lite/feature-reporting-periods.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "48c48f5598c2f363681d3b8d2c9cfa53898a8d2181203b647048f9506ece2799"
+    },
+    {
+      "app": "milequill-lite",
+      "feature": "Mileage and earnings totals",
+      "file": "milequill-lite/feature-mileage-and-earnings-totals.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "7e9ec2fcbb38af8001671985c2ee3a73c2b9761f59f48c43c399524ca9c100f0"
+    },
+    {
+      "app": "milequill-lite",
+      "feature": "Recent activity",
+      "file": "milequill-lite/feature-recent-activity.jpg",
+      "width": 974,
+      "height": 216,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "b7a477d6859f69794dd595f102e2b85d775fc763cbd6659c42ab5b11650335cf"
+    },
+    {
+      "app": "milequill-lite",
+      "feature": "Spreadsheet exports",
+      "file": "milequill-lite/feature-spreadsheet-exports.jpg",
+      "width": 481,
+      "height": 221,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "1e0c6339b3a7c1642dc7ecfa796cc48529c706a9927107d1660dbeda75ac39c1"
+    },
+    {
+      "app": "milequill-lite",
+      "feature": "Working offline",
+      "file": "milequill-lite/feature-working-offline.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "ff4a53a5040b1e7adb9b98573a0c5d9731549eed3d55a65e4948312aa401d488"
+    },
+    {
+      "app": "pocketquill",
+      "feature": "Where records live",
+      "file": "pocketquill/feature-where-records-live.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "e86f4e181884f4535e8cd45a682a49526fc4c0bb5090b3ccaa56e855268b06e9"
+    },
+    {
+      "app": "pocketquill",
+      "feature": "Make a backup",
+      "file": "pocketquill/feature-make-a-backup.jpg",
+      "width": 547,
+      "height": 269,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "77ae4c0929c078c1217197a42fa937e207cc46d6d0e9d6a4131a9b89e46ec500"
+    },
+    {
+      "app": "pocketquill",
+      "feature": "Restore your records",
+      "file": "pocketquill/feature-restore-your-records.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "518027d321f22764ff1fcabc591f1a806263b2c8d86d31a8b26d011b4206c1cf"
+    },
+    {
+      "app": "pocketquill",
+      "feature": "Account balances",
+      "file": "pocketquill/feature-account-balances.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "e92a7cdd5bf1b5101c18bd4e0dc96ab1506a0e15d0144f95400c5f2ae16c0475"
+    },
+    {
+      "app": "pocketquill",
+      "feature": "Credit card details",
+      "file": "pocketquill/feature-credit-card-details.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "7bc891fc99a2614eff1d19913d9b5f7e7162851d9373c756578f09b6b3aed532"
+    },
+    {
+      "app": "pocketquill",
+      "feature": "Bank CSV mapping",
+      "file": "pocketquill/feature-bank-csv-mapping.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "11dc6a6fcb5426f0091b1eace04c5c03d85c36b1cc8eabbddb27fc6441f6a7d7"
+    },
+    {
+      "app": "pocketquill",
+      "feature": "Reusable import templates",
+      "file": "pocketquill/feature-reusable-import-templates.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "194df1ea69848663eec6d4c27488ba45c6dded3d5ecbe0c515e9398b721d4355"
+    },
+    {
+      "app": "pocketquill",
+      "feature": "Preview and duplicate checks",
+      "file": "pocketquill/feature-preview-and-duplicate-checks.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "ebc643ff283119444f0f798d3b85f2bac581ea23a9fd7fe57514bdc2c4608230"
+    },
+    {
+      "app": "pocketquill",
+      "feature": "Review inbox",
+      "file": "pocketquill/feature-review-inbox.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "542d6e27235433bf8bde2b8e576fd835c1bfb363d95db90a5406b5413ba4980d"
+    },
+    {
+      "app": "pocketquill",
+      "feature": "Transfers and card payments",
+      "file": "pocketquill/feature-transfers-and-card-payments.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "6116094bd549e9d75cfc29a17002e43ec3a3d5bfba1201ca1dedb2fb6eeff5f6"
+    },
+    {
+      "app": "pocketquill",
+      "feature": "Manual entries and search",
+      "file": "pocketquill/feature-manual-entries-and-search.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "143aad4ecacb5444f03f5389c9d6b80004bb717d3189e04582020e5f211300cd"
+    },
+    {
+      "app": "pocketquill",
+      "feature": "Manual entries and search",
+      "file": "pocketquill/feature-manual-entries-and-search-phone.jpg",
+      "width": 390,
+      "height": 844,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "18d89a19a1e3767f564d8fa504ad824473707ded89c4cea275b3e8d4d203fe97"
+    },
+    {
+      "app": "pocketquill",
+      "feature": "Collections and debt history",
+      "file": "pocketquill/feature-collections-and-debt-history.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "bb987902f4505e87096698b61b4cf280d60479ce496a64061cb8403d6f765677"
+    },
+    {
+      "app": "pocketquill",
+      "feature": "Balance certainty",
+      "file": "pocketquill/feature-balance-certainty.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "5d64df2e4c2bc3b73b9d0e3b4a160ba67edb6b9deaf0ec7bafa9da022043c99a"
+    },
+    {
+      "app": "pocketquill",
+      "feature": "Call and legal notes",
+      "file": "pocketquill/feature-call-and-legal-notes.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "ab46e60dcdc2c19dae516bc347512831b315d1263d19441c8d668ef57726d2dd"
+    },
+    {
+      "app": "pocketquill",
+      "feature": "Calendar",
+      "file": "pocketquill/feature-calendar.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "7f763d4dc68edc050d78e5a82fc451f31c9ababb49ee786ab64a933811cef4cc"
+    },
+    {
+      "app": "pocketquill",
+      "feature": "Cash and upcoming dates",
+      "file": "pocketquill/feature-cash-and-upcoming-dates.jpg",
+      "width": 547,
+      "height": 275,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "ee4062d3eb42d9c3ed12777d0e7100ae5edd584dfc8c3b3573ae17f9669c6153"
+    },
+    {
+      "app": "pocketquill",
+      "feature": "Monthly cash flow",
+      "file": "pocketquill/feature-monthly-cash-flow.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "77a1c33dd0d67347ca3bb8c8c380205ace7cd96e310c704d242fa3184962cbf7"
+    },
+    {
+      "app": "pocketquill",
+      "feature": "Credit and debt summaries",
+      "file": "pocketquill/feature-credit-and-debt-summaries.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "d163ab8c9cabb0e2356d09fd992ce6a4ce4c44a393d2a67354e430209399ec40"
+    },
+    {
+      "app": "pocketquill",
+      "feature": "Saved dashboard layouts",
+      "file": "pocketquill/feature-saved-dashboard-layouts.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "dc2ba78637628ff357e7b682a7e9c510bfa2e329a134fa1892d515c856b22ead"
+    },
+    {
+      "app": "pocketquill",
+      "feature": "App CSV import and export",
+      "file": "pocketquill/feature-app-csv-import-and-export.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "b86eccd97cf14711a3c872f6490182d0d63547ec1f6627d203e64f3d270a7177"
+    },
+    {
+      "app": "pocketquill",
+      "feature": "Lock and currency preferences",
+      "file": "pocketquill/feature-lock-and-currency-preferences.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "e26c7f7c7328d1fd18d663915666b463e5290a8c29bc686e1652fcb4e2a624a4"
+    },
+    {
+      "app": "pocketquill",
+      "feature": "Offline use and updates",
+      "file": "pocketquill/feature-offline-use-and-updates.jpg",
+      "width": 218,
+      "height": 43,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "21030ae86548dbd3089a7d2f0dbea2b749fb65fb58c481c5eca359dc5fa23baf"
+    },
+    {
+      "app": "screenquill",
+      "feature": "Working session",
+      "file": "screenquill/windows-task-details.jpg",
+      "width": 1180,
+      "height": 884,
+      "source": "prior native Windows app capture (same workflow controls except later Terms button; cropped where necessary)",
+      "sha256": "ae7b8a4cfdb9ad911b3cd8f5c379fb383bb96980604c8c2d6521ebc32385a903"
+    },
+    {
+      "app": "screenquill",
+      "feature": "Exported evidence",
+      "file": "screenquill/feature-exported-evidence.jpg",
+      "width": 700,
+      "height": 250,
+      "source": "prior native Windows app capture (same workflow controls except later Terms button; cropped where necessary)",
+      "sha256": "08be1c6bb583414ba4823a1fddedb781e53d739bb399d1e9314d67843a5d8334"
+    },
+    {
+      "app": "screenquill",
+      "feature": "Exported evidence",
+      "file": "screenquill/windows-review.jpg",
+      "width": 1180,
+      "height": 884,
+      "source": "prior native Windows app capture (same workflow controls except later Terms button; cropped where necessary)",
+      "sha256": "74b8bdb35ab7bb8eff84a4e7e89962fecbc50e738ceb034db48938d33eaaa0f5"
+    },
+    {
+      "app": "screenquill",
+      "feature": "Review before sharing",
+      "file": "screenquill/feature-review-before-sharing.jpg",
+      "width": 700,
+      "height": 505,
+      "source": "prior native Windows app capture (same workflow controls except later Terms button; cropped where necessary)",
+      "sha256": "cb4df4ffabe14684743a7cbe7d6e25b0cd7c2e07203c75188efcd77c4caeb8f9"
+    },
+    {
+      "app": "screenquill",
+      "feature": "Review before sharing",
+      "file": "screenquill/windows-review.jpg",
+      "width": 1180,
+      "height": 884,
+      "source": "prior native Windows app capture (same workflow controls except later Terms button; cropped where necessary)",
+      "sha256": "74b8bdb35ab7bb8eff84a4e7e89962fecbc50e738ceb034db48938d33eaaa0f5"
+    },
+    {
+      "app": "screenquill",
+      "feature": "Record Screen",
+      "file": "screenquill/feature-record-screen.jpg",
+      "width": 640,
+      "height": 513,
+      "source": "prior native Windows app capture (same workflow controls except later Terms button; cropped where necessary)",
+      "sha256": "8b30993b0507da9f9d3aa0032bbaa08395ae6eb95923d144ba2fe1d8f33f1627"
+    },
+    {
+      "app": "screenquill",
+      "feature": "Choose a target",
+      "file": "screenquill/feature-choose-a-target.jpg",
+      "width": 1180,
+      "height": 205,
+      "source": "prior native Windows app capture (same workflow controls except later Terms button; cropped where necessary)",
+      "sha256": "1b09b5dfc47a1d25c16fec08b16a3bd497cb9fcd6e867a8d29a6867e4060ded0"
+    },
+    {
+      "app": "screenquill",
+      "feature": "Review recording time",
+      "file": "screenquill/feature-review-recording-time.jpg",
+      "width": 1180,
+      "height": 295,
+      "source": "prior native Windows app capture (same workflow controls except later Terms button; cropped where necessary)",
+      "sha256": "10f03eb360143012e59de105eacf92ecc9362ac643ffc8c845ff3453e3e7d443"
+    },
+    {
+      "app": "screenquill",
+      "feature": "Keep useful evidence",
+      "file": "screenquill/feature-keep-useful-evidence.jpg",
+      "width": 1160,
+      "height": 580,
+      "source": "prior native Windows app capture (same workflow controls except later Terms button; cropped where necessary)",
+      "sha256": "c8a0023f7519538c78955811e9fcf84eb7b9cabfec1ba7c58326756d4dafd372"
+    },
+    {
+      "app": "screenquill",
+      "feature": "Keep useful evidence",
+      "file": "screenquill/windows-review.jpg",
+      "width": 1180,
+      "height": 884,
+      "source": "prior native Windows app capture (same workflow controls except later Terms button; cropped where necessary)",
+      "sha256": "74b8bdb35ab7bb8eff84a4e7e89962fecbc50e738ceb034db48938d33eaaa0f5"
+    },
+    {
+      "app": "screenquill",
+      "feature": "Prepare an SOP handoff",
+      "file": "screenquill/feature-prepare-an-sop-handoff.jpg",
+      "width": 1160,
+      "height": 260,
+      "source": "prior native Windows app capture (same workflow controls except later Terms button; cropped where necessary)",
+      "sha256": "4165adcf50bcb4753b93274dca9d7af5fc22601e6761503eabfedeaa28c09892"
+    },
+    {
+      "app": "screenquill",
+      "feature": "Prepare an SOP handoff",
+      "file": "screenquill/windows-review.jpg",
+      "width": 1180,
+      "height": 884,
+      "source": "prior native Windows app capture (same workflow controls except later Terms button; cropped where necessary)",
+      "sha256": "74b8bdb35ab7bb8eff84a4e7e89962fecbc50e738ceb034db48938d33eaaa0f5"
+    },
+    {
+      "app": "screenquill",
+      "feature": "Add task details",
+      "file": "screenquill/feature-add-task-details.jpg",
+      "width": 1180,
+      "height": 740,
+      "source": "prior native Windows app capture (same workflow controls except later Terms button; cropped where necessary)",
+      "sha256": "02724d0457d1d7b54aed890903df258f21dd6fd404ad19069567e99bb44600cd"
+    },
+    {
+      "app": "filebirch",
+      "feature": "Launcher",
+      "file": "filebirch/feature-launcher.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "20940a7f6d8fcdf9ffc0cde23898395b11c7352b50558c904a6cf3fd8208774f"
+    },
+    {
+      "app": "filebirch",
+      "feature": "Tables",
+      "file": "filebirch/feature-tables.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "368d47034fc9e5a6676161b2e9fb1187937dd9ce7242c157b1de2686f8d5f331"
+    },
+    {
+      "app": "filebirch",
+      "feature": "Tables",
+      "file": "filebirch/feature-tables-formula.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "a7bfeb3501f6ffaada7b6adbdd67b6bcbc62e66b3840461cf27abe56de68764b"
+    },
+    {
+      "app": "filebirch",
+      "feature": "Tables",
+      "file": "filebirch/feature-tables-phone.jpg",
+      "width": 390,
+      "height": 844,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "e9234a7b306fbdcdef82729fab6f900aa2c6575da6fbb806e5066089aa39dfa4"
+    },
+    {
+      "app": "filebirch",
+      "feature": "Papers",
+      "file": "filebirch/feature-papers.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "960cd3f2a79cd52f38993fd8f7d9743c49bc50171834003d697156706cbcc151"
+    },
+    {
+      "app": "filebirch",
+      "feature": "Present",
+      "file": "filebirch/feature-present.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "0e223e290433911a10a8b11c27a4cb2b28e068fd4b542008cdf0aee851f31f07"
+    },
+    {
+      "app": "filebirch",
+      "feature": "Working with files",
+      "file": "filebirch/feature-working-with-files.jpg",
+      "width": 1440,
+      "height": 1000,
+      "source": "actual checked-out app interface, isolated browser, synthetic fixture",
+      "sha256": "4ebee6cfc0cb9df85facb727ac1c6bba899e0d39dcc8c086da8c183e4707d3c8"
+    }
+  ]
+}
